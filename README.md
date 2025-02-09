@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/Is-Butter/M-ultiTool-Bypass.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
 [![License](https://img.shields.io/github/license/Is-Butter/M-ultiTool-Bypass.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
+[![Version](https://img.shields.io/badge/version-1-blue.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
 ![Source](https://img.shields.io/badge/Source-Closed-red.svg)
 
 Right now this is closed source
@@ -14,6 +14,7 @@ Right now this is closed source
 ## Features
 
 - **Automatic Validation Bypass:** Allows all validation checks to pass.
+- **Distance Preservation:** Preserves your distance driven, no progress loss.
 - **Main Menu Integration:** Loads in the main menu for a seamless user experience.
 - **Automatic Data Update:** Updates internal validation data as soon as the mod loads.
 - **Easy to Use:** Simply download, install, and launch the game.
