@@ -3,6 +3,9 @@
 [![GitHub release](https://img.shields.io/github/release/Is-Butter/M-ultiTool-Bypass.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
 [![License](https://img.shields.io/github/license/Is-Butter/M-ultiTool-Bypass.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
+![Source](https://img.shields.io/badge/Source-Closed-red.svg)
+
+Right now this is closed source
 
 **Validation Bypass Mod** is a mod for *The Long Drive* that bypasses MultiTool’s validation checks, ensuring a smoother experience for players. 
 
