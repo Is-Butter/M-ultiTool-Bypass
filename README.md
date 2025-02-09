@@ -1,9 +1,9 @@
 # Validation Bypass Mod
 
-[![GitHub release](https://img.shields.io/github/release/YourUsername/YourRepository.svg)](https://github.com/YourUsername/YourRepository/releases)
-[![License](https://img.shields.io/github/license/YourUsername/YourRepository.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/YourUsername/YourRepository/CI/master.svg)](https://github.com/YourUsername/YourRepository/actions)
-[![Version](https://img.shields.io/badge/version-1.2-blue.svg)](https://github.com/YourUsername/YourRepository/releases)
+[![GitHub release](https://img.shields.io/github/release/Is-Butter/M-ultiTool-Bypass.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
+[![License](https://img.shields.io/github/license/Is-Butter/M-ultiTool-Bypass.svg)](LICENSE)
+[![Build Status](https://img.shields.io/github/workflow/status/Is-Butter/M-ultiTool-Bypass/CI/master.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/actions)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Is-Butter/M-ultiTool-Bypass/releases)
 
 **Validation Bypass Mod** is a mod for *The Long Drive* that bypasses MultiTool’s validation checks, ensuring a smoother experience for players. 
 
@@ -21,7 +21,7 @@
 ## Installation
 
 1. **Download the DLL:**
-   - Go to the [Releases](https://github.com/YourUsername/YourRepository/releases) page and download the latest `ValidationBypassMod.dll`.
+   - Go to the [Releases](https://github.com/Is-Butter/M-ultiTool-Bypass/releases) page and download the latest `ValidationBypassMod.dll`.
 
 2. **Copy the DLL to Your Mods Folder:**
    - Locate your game installation directory.
@@ -56,7 +56,7 @@ _No further configuration is needed._
 - **Conflicts:**  
   Ensure that no other mods are interfering with the validation process.
 
-If you continue to experience issues, please [open an issue](https://github.com/YourUsername/YourRepository/issues) on GitHub with detailed information.
+If you continue to experience issues, please [open an issue](https://github.com/Is-Butter/M-ultiTool-Bypass/issues) on GitHub with detailed information.
 
 ---
 
