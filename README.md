@@ -7,7 +7,7 @@
 
 Right now this is closed source
 
-**Validation Bypass Mod** is a mod for *The Long Drive* that bypasses MultiTool’s validation checks, ensuring a smoother experience for players. 
+**Validation Bypass Mod** is a mod for *The Long Drive* that bypasses MultiTool’s validation checks. 
 
 ---
 
@@ -15,7 +15,7 @@ Right now this is closed source
 
 - **Automatic Validation Bypass:** Allows all validation checks to pass.
 - **Distance Preservation:** Preserves your distance driven, no progress loss.
-- **Main Menu Integration:** Loads in the main menu for a seamless user experience.
+- **Main Menu Integration:** Loads in the main menu, no need for clunky menus or buttons.
 - **Automatic Data Update:** Updates internal validation data as soon as the mod loads.
 - **Easy to Use:** Simply download, install, and launch the game.
 
